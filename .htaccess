@@ -1,0 +1,2 @@
+# The site opens on index.html, which hands off to the PHP project (index.php)
+DirectoryIndex index.html index.php
